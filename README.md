@@ -18,7 +18,7 @@
 
 ### ✨ [Demo](https://github.com/MusketeerHD/Bookshelf-API-Dicoding-Back-End/blob/main/README.md)
 
-### Features :
+## Features :
 
 * Displays a list of books
 * View book details
@@ -57,11 +57,26 @@ npm install @Hapi/hapi
 npm install nodemon
 ```
 
-## Usage
+## Run & Usages
 
 ```sh
 npm run start
 ```
+
+## Access the API endpoints
+
+Access it using Postman or any other REST client at http://localhost:9000
+
+## API Endpoints
+* `GET /books` Get all books in the bookshelf
+GET /books/{bookId}
+Get a book by its bookId
+POST /books
+Add a new book to the bookshelf
+PUT /books/{bookId}
+Update a book by its bookId
+DELETE /books/{bookId}
+Delete a book by its bookId
 
 ## Author
 
