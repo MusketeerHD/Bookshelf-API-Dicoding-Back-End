@@ -76,20 +76,20 @@ Access it using Postman or any other REST client at http://localhost:9000
 
 ## Response Format
 All API endpoints will respond with JSON data in the following format: 
-``{
+```{
   "status": "success",
   "message": "Success message",
   "data": {
     // Response data
   }
 }
-``
+```
 If an error occurs, the response format will be:
-``{
+```{
   "status": "fail",
   "message": "Error message"
 }
-``
+```
 
 ## Author
 
