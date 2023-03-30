@@ -68,15 +68,28 @@ npm run start
 Access it using Postman or any other REST client at http://localhost:9000
 
 ## API Endpoints
-* `GET /books` Get all books in the bookshelf
-GET /books/{bookId}
-Get a book by its bookId
-POST /books
-Add a new book to the bookshelf
-PUT /books/{bookId}
-Update a book by its bookId
-DELETE /books/{bookId}
-Delete a book by its bookId
+* `GET /books` = Get all books in the bookshelf
+* `GET /books/{bookId}` = Get a book by its bookId
+* `POST /books` = Add a new book to the bookshelf 
+* `PUT /books/{bookId}` = Update a book by its bookId
+* `DELETE /books/{bookId}` = Delete a book by its bookId
+
+## Response Format
+All API endpoints will respond with JSON data in the following format: 
+``{
+  "status": "success",
+  "message": "Success message",
+  "data": {
+    // Response data
+  }
+}
+``
+If an error occurs, the response format will be:
+``{
+  "status": "fail",
+  "message": "Error message"
+}
+``
 
 ## Author
 
