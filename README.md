@@ -19,18 +19,19 @@
 ### ✨ [Demo](https://github.com/MusketeerHD/Bookshelf-API-Dicoding-Back-End/blob/main/README.md)
 
 ### Features :
+
 * Displays a list of books
 * View book details
-* Added a new book
-* Changing book data
+* Add a new book
+* Change book data
 * Delete books
 
 ## Prerequisites and Technology
 
-* Node.js
-* Hapi
-* Nodemon
-* Postman
+* [Node.js](https://nodejs.org/en)
+* [Hapi](https://hapi.dev/)
+* [Nodemon](https://www.npmjs.com/package/nodemon)
+* [Postman](https://www.postman.com/)
 
 ## Install
 
@@ -73,6 +74,6 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2023 [Musketeer](https://github.com/Musketeer).<br />
-This project is [MIT License](https://github.com/MusketeerHD/Bookshelf-API-Dicoding-Back-End/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/MusketeerHD/Bookshelf-API-Dicoding-Back-End/blob/main/LICENSE) licensed.
 
 ***
