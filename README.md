@@ -35,15 +35,20 @@
 
 ## Install
 
+Clone this repo and install npm :
+
 ```sh
 npm install
 ```
 
-## Hapi Installation and Nodemon
+## Initialize
 
+If you dont have or wanna change the "node_modules" use :
 ```sh
 npm init --y
 ```
+
+## Hapi & Nodemon Installation
 
 ```sh
 npm install @Hapi/hapi
