@@ -49,4 +49,3 @@ Copyright © 2023 [Musketeer](https://github.com/Musketeer).<br />
 This project is [MIT License](https://github.com/MusketeerHD/Bookshelf-API-Dicoding-Back-End/blob/main/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
