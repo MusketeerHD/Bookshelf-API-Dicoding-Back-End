@@ -14,7 +14,7 @@
 
 > This is a project submission for the &#34;Belajar Membuat Aplikasi Back-End untuk Pemula&#34; course on Dicoding which consists of building a simple bookshelf API using the Hapi framework, Nodemon for automatic server restarting, and Postman for testing.
 
-### 🏠 [Homepage](https://github.com/MusketeerHD)
+### 🏠 [Homepage](https://github.com/MusketeerHD/Bookshelf-API-Dicoding-Back-End)
 
 ### ✨ [Demo](https://github.com/MusketeerHD/Bookshelf-API-Dicoding-Back-End/blob/main/README.md)
 
@@ -34,10 +34,10 @@ npm run start
 
 👤 **Musketeer**
 
-* Website: Musketeer
+* Website: [MusketeerHD](https://github.com/MusketeerHD)
 * Twitter: [@MusketeerHD](https://twitter.com/MusketeerHD)
 * Github: [@Musketeer](https://github.com/Musketeer)
-* LinkedIn: [@Ahmad Azfa Dzulfaqar](https://linkedin.com/in/Ahmad Azfa Dzulfaqar)
+* LinkedIn: [@Ahmad Azfa Dzulfaqar](https://www.linkedin.com/in/ahmad-azfa-dzulfaqar/)
 
 ## Show your support
 
