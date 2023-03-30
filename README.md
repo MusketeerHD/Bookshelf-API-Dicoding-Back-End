@@ -36,7 +36,7 @@ npm run start
 
 * Website: [MusketeerHD](https://github.com/MusketeerHD)
 * Twitter: [@MusketeerHD](https://twitter.com/MusketeerHD)
-* Github: [@Musketeer](https://github.com/Musketeer)
+* Github: [MusketeerHD](https://github.com/MusketeerHD)
 * LinkedIn: [@Ahmad Azfa Dzulfaqar](https://www.linkedin.com/in/ahmad-azfa-dzulfaqar/)
 
 ## Show your support
