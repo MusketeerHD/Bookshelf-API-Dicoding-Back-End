@@ -65,7 +65,7 @@ npm run start
 
 ## Access the API endpoints
 
-Access it using Postman or any other REST client at http://localhost:9000
+Access in Bookshelf API Test Collection & Environment using Postman or any other REST client at http://localhost:9000
 
 ## API Endpoints
 * `GET /books` = Get all books in the bookshelf
