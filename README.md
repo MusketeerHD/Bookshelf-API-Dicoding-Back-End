@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> This is a project submission for the &#34;Belajar Membuat Aplikasi Back-End untuk Pemula&#34; course on Dicoding which consists of building a RESTful API namely bookshelf API using the Hapi framework, Nodemon for automatic server restarting, and Postman for testing.
+> This is a project submission for the &#34;Belajar Membuat Aplikasi Back-End untuk Pemula&#34; course on Dicoding which consists of building a RESTful API namely bookshelf API using the Hapi framework, Nodemon for automatic server restarting, and Postman for testing and also eslint.
 
 ### 🏠 [Homepage](https://github.com/MusketeerHD/Bookshelf-API-Dicoding-Back-End)
 
@@ -56,6 +56,11 @@ npm install @Hapi/hapi
 ```sh
 npm install nodemon
 ```
+if you haven't installed eslint, then you have to install it :
+```sh
+npm install --save-dev eslint
+```
+All manual install instruction is in [here](https://eslint.org/docs/latest/use/getting-started)
 
 ## Run & Usages
 
