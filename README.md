@@ -31,6 +31,7 @@
 * [Node.js](https://nodejs.org/en)
 * [Hapi](https://hapi.dev/)
 * [Nodemon](https://www.npmjs.com/package/nodemon)
+* [ESLint](https://eslint.org/)
 * [Postman](https://www.postman.com/)
 
 ## Install
