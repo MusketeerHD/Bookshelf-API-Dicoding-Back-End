@@ -102,6 +102,7 @@ If an error occurs, the response format will be:
 👤 **Musketeer**
 
 * Website: [MusketeerHD](https://github.com/MusketeerHD)
+* Instagram : [azfa_dzulfaqar](https://www.instagram.com/azfa_dzulfaqar/)
 * Twitter: [@MusketeerHD](https://twitter.com/MusketeerHD)
 * Github: [MusketeerHD](https://github.com/MusketeerHD)
 * LinkedIn: [@Ahmad Azfa Dzulfaqar](https://www.linkedin.com/in/ahmad-azfa-dzulfaqar/)
